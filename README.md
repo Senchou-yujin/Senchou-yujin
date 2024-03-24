@@ -1,6 +1,7 @@
+[![MasterHead](https://drive.google.com/drive/u/0/folders/1u1gd5_0MGYIvuBRhuTJBfNNEJFIIk8CT)](https://senchou-yujin.io)
 <h1 align="center">Hi 👋, I'm Eugene Tabilog!</h1>
 <h3 align="center">A passionate Electronics Hobbyist from the Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senchou-yujin&label=Profile%20views&color=0e75b6&style=flat" alt="senchou-yujin" /> </p>
 
