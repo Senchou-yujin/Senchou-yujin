@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senchou-yujin&label=Profile%20views&color=0e75b6&style=flat" alt="senchou-yujin" /> </p>
 
-- 🌱 I’m currently learning **Microprocessors, IoT, Robotics, and PCB Designing.**
+- 🤖 I’m currently learning **Microprocessors, IoT, Robotics, and PCB Designing.**
 
-- 💬 Ask me about **Algorithms, Robotics, hardware stuffs like Microprocessors**
+- 🤖 Ask me about **Algorithms, Robotics, hardware stuffs like Microprocessors**
 
-- 📫 How to reach me **eugenio.tabilogiii@gmail.com**
+- 🤖 How to reach me **eugenio.tabilogiii@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can connect with me through:</h3>
 <p align="left">
 </p>
 
